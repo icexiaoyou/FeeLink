@@ -1,8 +1,12 @@
-# FeeLink <br/>
+# FeeLink
 
 A deep learning toolset, free &amp; easy &amp; graphical.<br/>
 Backup by pyside6, pytorch and yolov5.<br/>
 
+
+
+# CSDN Artical
+http://t.csdnimg.cn/WCr0s<br/>
 
 # Preparation
 
