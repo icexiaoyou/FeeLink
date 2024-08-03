@@ -18,9 +18,8 @@ Then, intsall pytorch, if computer could run on CUDA.<br/>
 ## Git clone yolov5
 Thanks to ultralytics, everyone could learn and use AI with their project. Please Check:<br/>
 [https://github.com/ultralytics/yolov5 ](url)<br/>
- <br/>
- <br/>
- <br/>
+
+
 # Use<br/>
 Download FeeLink, including feelink.exe and _internal.<br/> 
 Open feelink.exe, enjoy it!<br/>
