@@ -20,6 +20,18 @@ Thanks to ultralytics, everyone could learn and use AI with their project. Pleas
 [https://github.com/ultralytics/yolov5 ](url)<br/>
 
 
+# File Tree
+Please confirm that the file structure matches:<br/>
+feelink<br/>
+├─ Environment.txt<br/>
+├─ feelink.exe<br/>
+├─ Model.txt<br/>
+├─ yolov5<br/>
+└─ Pretrained_Models<br/>
+   ├─ Detection<br/>
+   └─ Classification<br/>
+
+
 # Use<br/>
 Download FeeLink, including feelink.exe and _internal.<br/> 
 Open feelink.exe, enjoy it!<br/>
