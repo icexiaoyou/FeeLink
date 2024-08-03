@@ -34,5 +34,5 @@ feelink<br/>
 
 
 # Use<br/>
-Download FeeLink, including feelink.exe and _internal.<br/> 
-Open feelink.exe, enjoy it!<br/>
+Download FeeLink, including feelink.exe and _internal.<br/>
+Open feelink.exe, click **Initial** button in the menu bar on first launch, then enjoy it!<br/>
