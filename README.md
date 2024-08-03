@@ -1,7 +1,7 @@
 # FeeLink <br/>
 
 A deep learning toolset, free &amp; easy &amp; graphical.<br/>
-Backup by pyside6, pytorch and yolov5.
+Backup by pyside6, pytorch and yolov5.<br/>
 
 
 # Preparation
