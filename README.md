@@ -1,12 +1,11 @@
 # FeeLink <br/>
- 
+
 A deep learning toolset, free &amp; easy &amp; graphical.<br/>
-Backup by pyside6, pytorch and yolov5.<br/>
- <br/>
- <br/>
+Backup by pyside6, pytorch and yolov5.
+
 
 # Preparation
- <br/>
+
 ## Install Git
 [https://git-scm.com/](url)<br/>
 ## Install Anaconda
